@@ -1,7 +1,8 @@
 # COVID-19 Dashboard
 This is a COVID-19 dashboard which shows Global and Country-based statistics. This web application is created using React js, chart-js, Materials-UI, Axios and many other web-modules.
 
-![COVID-19 Tracker](https://i.ibb.co/QN04Ldv/COVID-19-Dashboard.png)
+![COVID-19 Tracker](https://ibb.co/QN04Ldv)
+
 
 ## API Used
 Check out this great API for COVID-19 data:
