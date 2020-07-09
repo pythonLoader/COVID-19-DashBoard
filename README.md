@@ -12,5 +12,8 @@ https://covid19.mathdro.id/api
 1. Install nodejs from [here](https://nodejs.org/en/download/) with npm (version: 6.14.5)
 
 2. For development server deployment:
-> npm i && npm start
+    - run ```npm i && npm start```
 
+3. For production build deployment :
+    - run  ```npm install -g serve```  (Once)
+    - run ```serve build```  (For serving the build)
